@@ -1,0 +1,84 @@
+
+{
+
+    "character1"  :{
+    "superName" : "The Joker",
+    "realName" : "UNKNOWN",
+    "allegiance" : "Villain",
+    "comicCompany": "DC",
+    "id" : 1
+    },
+
+
+    "character2"  :{
+    "superName" : "Spiderman",
+    "realName" : "Peter Parker",
+    "allegiance" : "Hero",
+    "comicCompany": "Marvel",
+    "id" : 2
+    },
+
+    "character3"  :{
+        "superName" : "Batman",
+        "realName" : "Bruce Wayne",
+        "allegiance" : "Hero",
+        "comicCompany": "DC",
+        "id" : 3
+    },
+
+    "character4"  :{
+        "superName" : "Magneto",
+        "realName" : "Max Eisenhardt",
+        "allegiance" : "Villain",
+        "comicCompany": "Marvel",
+        "id" : 4
+    },
+
+    "character5"  :{
+        "superName" : "The Flash",
+        "realName" : "Barry Allen",
+        "allegiance" : "Hero",
+        "comicCompany": "DC",
+        "id" : 5
+    },
+
+    "character6"  :{
+        "superName" : "The Riddler",
+        "realName" : "Edward Nigma ",
+        "allegiance" : "Villain",
+        "comicCompany": "DC",
+        "id" : 6
+    },
+
+    "character7"  :{
+        "superName" : "Powerman",
+        "realName" : "Luke Cage",
+        "allegiance" : "Hero",
+        "comicCompany": "Marvel ",
+        "id" : 7
+    },
+
+    "character8"  :{
+        "superName" : "TMNT Raphael",
+        "realName" : "Raphael",
+        "allegiance" : "Hero",
+        "comicCompany": "Mirage Studio",
+        "id" : 8
+    },
+    "character9"  :{
+        "superName" : "Preacher",
+        "realName" : "Jesse Custer",
+        "allegiance" : "Anti-Hero",
+        "comicCompany": "Vertigo",
+        "id" : 9
+    },
+
+    "character10"  :{
+        "superName" : "Shredder",
+        "realName" : "Oroku Saki",
+        "allegiance" : "Villain",
+        "comicCompany": "Mirage Studio",
+        "id" : 10
+    }
+}
+]
